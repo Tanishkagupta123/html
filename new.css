@@ -46,8 +46,60 @@ color: blueviolet;
  p{
 
   color: chartreuse;
-
-
+ }
+ #start1{
+   color: black;
+    font-size: medium;
+   font-weight: 400;
+   letter-spacing: 3px;
+    word-spacing: 10px;
+   text-decoration: overline;
+  text-decoration: underline;
+   text-decoration: line-through;
+   background-color: aqua;
+   font-style: initial;
 
  }
+.start2{
+    color: blue; 
+   font-size: x-small;
+  font-weight: lighter;
+font-style: inherit;
+text-decoration: underline;
+background-color: aquamarine;
+
+}
+
+#start3{
+ color: blueviolet;
+font-size: xx-small;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+letter-spacing: 3px;
+word-spacing: 7px;
+
+} 
+#first1{
+background: blue;
+font-size: xx-large;
+font-weight: 300;
+letter-spacing: 2px;
+word-spacing: 5px;
+
+}
+.first2{
+background-color: aqua;
+font-size: medium;
+font-style: oblique;
+letter-spacing: 2px;
+word-spacing: 5px;
+}
+
+#first3{
+ background-color:brown;
+font-size: larger;
+letter-spacing: 4px;
+word-spacing: 10px;
+
+}
+
 
