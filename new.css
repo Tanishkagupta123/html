@@ -26,10 +26,27 @@ font-size: larger;
 font-family: Arial, Helvetica, sans-serif;
 letter-spacing: 5px;
 word-spacing: 10px;
+
  }
 
  .new4{
 color: blueviolet;
+
+
+ }
+ h{
+   font-size: xx-large;
+   color: darkred;
+    text-decoration: double;
+   text-decoration: underline;
+  letter-spacing: 4px;
+  word-spacing: 15px;
+
+ }
+ p{
+
+  color: chartreuse;
+
 
 
  }
