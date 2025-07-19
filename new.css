@@ -92,6 +92,9 @@ font-size: medium;
 font-style: oblique;
 letter-spacing: 2px;
 word-spacing: 5px;
+border-radius: 20px;
+
+
 }
 
 #first3{
@@ -99,7 +102,24 @@ word-spacing: 5px;
 font-size: larger;
 letter-spacing: 4px;
 word-spacing: 10px;
+border-top: 4px green;
+padding-left: 10px;
+margin: 40px;
+padding-right: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+padding: 20px;
+
+
+
+
+
 
 }
+
+
+
+
+
 
 
