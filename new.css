@@ -76,8 +76,12 @@ font-size: xx-small;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 letter-spacing: 3px;
 word-spacing: 7px;
+background-color: aquamarine;
+border:4px;
+
 
 } 
+
 #first1{
 background: blue;
 font-size: xx-large;
@@ -94,7 +98,6 @@ letter-spacing: 2px;
 word-spacing: 5px;
 border-radius: 20px;
 
-
 }
 
 #first3{
@@ -110,9 +113,44 @@ margin-bottom: 20px;
 margin-left: 20px;
 padding: 20px;
 
+}
+
+.run2{
+
+font-size: x-large;
+font-style: initial;
+font-weight: 3px;
+text-decoration: overline;
+text-decoration: underline;
+letter-spacing: 2px;
+word-spacing: 10px;
+border: 5px dotted blue;
+padding: 10px;
+padding-left: 100px;
+padding-bottom: 10px;
+padding-right:20px;
+padding-top:10px;
+margin:30px;
+margin-top: 50px;
+margin-bottom:10px;
+margin-left: 20px;
+margin-right: 20px;
+
+}
 
 
+.run1{
 
+background-color: blueviolet;
+border: 5px dashed red;
+border-top: 9px dotted yellow;
+border-radius: 10px;
+padding: 20px;
+padding-left: 150px;
+padding-right: 150px;
+margin-left: 100px;
+margin-right: 100px;
+font-size: x-large;
 
 
 }
